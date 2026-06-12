@@ -1,39 +1,20 @@
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Yongsalgwa-ui Moosang Hoegwi",
-  "status": "Ongoing",
-  "author": "Do-sin",
-  "artist": "Blue-Line Studio",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": "4.8",
-  "synopsis": "Setelah kematian tragis umat manusia di tangan Naga Hitam, sang pembantai naga terkuat mendapatkan kesempatan kedua. Dia kembali ke masa lalu dengan ingatan dan kemampuan yang utuh, bertekad untuk membalikkan takdir dan memastikan kehancuran mutlak para naga.",
-  "cover_url": "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prologue: Kehancuran dan Kesempatan Kedua",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-01/003.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Kebangkitan Sang Pembantai Naga",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-storage/main/assets/a-dragonslayers-peerless-regression/ch-02/003.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "A Cadet Becomes a Prophet",
+    "category": "isekai",
+    "cbz_url": "https://raw.githubusercontent.com/Firdaussibarani/komiks/main/isekai/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet"
+  },
+  {
+    "title": "Academy_s Genius Swordmaster",
+    "category": "isekai",
+    "cbz_url": "https://raw.githubusercontent.com/Firdaussibarani/komiks/main/isekai/Academy_s%20Genius%20Swordmaster.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=Academy_s%20Genius%20Swordmaster"
+  },
+  {
+    "title": "A Cadet Becomes a Prophet",
+    "category": "romance",
+    "cbz_url": "https://raw.githubusercontent.com/Firdaussibarani/komiks/main/romance/A%20Cadet%20Becomes%20a%20Prophet.cbz",
+    "cover": "https://via.placeholder.com/200x300/111/39ff14?text=A%20Cadet%20Becomes%20a%20Prophet"
+  }
+]
